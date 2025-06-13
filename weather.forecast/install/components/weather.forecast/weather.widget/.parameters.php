@@ -30,6 +30,6 @@ $arComponentParameters = [
             ],
             "DEFAULT" => 'metric',
         ],
-        "CACHE_TIME" => ["DEFAULT" => 1800],
+        "CACHE_TIME" => ["DEFAULT" => 3600],
     ],
 ];
