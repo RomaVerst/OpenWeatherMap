@@ -1,0 +1,2 @@
+<?php
+$MESS['WEATHER_FORECAST_BASE_PROVIDER_EMPTY_API_KEY'] = 'Не введён Ключ API';
